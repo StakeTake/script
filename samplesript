@@ -6,7 +6,7 @@ do
 # Logo
 
 echo "============================================================"
-curl -s <ссылка на лого> | bash
+curl -s https://raw.githubusercontent.com/StakeTake/script/main/log.sh | bash
 echo "============================================================"
 
 # Menu
