@@ -1,0 +1,38 @@
+#!/bin/bash
+
+while true
+do
+
+# Logo
+
+echo "============================================================"
+curl -s <ссылка на лого> | bash
+echo "============================================================"
+
+# Menu
+
+PS3='Select an action: '
+options=(
+""
+)
+select opt in "${options[@]}"
+do
+case $opt in
+
+# Docker
+
+"")
+echo "============================================================"
+echo ""
+echo "============================================================"
+
+break
+;;
+
+"Exit")
+exit
+;;
+*) echo "invalid option $REPLY";;
+esac
+done
+done
