@@ -1,5 +1,5 @@
 #!/bin/bash
-                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                               
 echo -e "   SSSSSSSSSSSSSSS          tttt                            kkkkkkkk                                                TTTTTTTTTTTTTTTTTTTTTTT                  kkkkkkkk                               "
 echo -e " SS:::::::::::::::S      ttt:::t                            k::::::k                                                T:::::::::::::::::::::T                  k::::::k                               "
 echo -e "S:::::SSSSSS::::::S      t:::::t                            k::::::k                                                T:::::::::::::::::::::T                  k::::::k                               "
@@ -15,4 +15,4 @@ echo -e "            S:::::S      t:::::t    tttttta::::a    a:::::a  k::::::k::
 echo -e "SSSSSSS     S:::::S      t::::::tttt:::::ta::::a    a:::::a k::::::k k:::::k   e::::::::e                                 TT:::::::TT      a::::a    a:::::a k::::::k k:::::k   e::::::::e          "
 echo -e "S::::::SSSSSS:::::S      tt::::::::::::::ta:::::aaaa::::::a k::::::k  k:::::k   e::::::::eeeeeeee                         T:::::::::T      a:::::aaaa::::::a k::::::k  k:::::k   e::::::::eeeeeeee  "
 echo -e "S:::::::::::::::SS         tt:::::::::::tt a::::::::::aa:::ak::::::k   k:::::k   ee:::::::::::::e                         T:::::::::T       a::::::::::aa:::ak::::::k   k:::::k   ee:::::::::::::e  "
-echo -e " SSSSSSSSSSSSSSS             ttttttttttt    aaaaaaaaaa  aaaakkkkkkkk    kkkkkkk    eeeeeeeeeeeeee                         TTTTTTTTTTT        aaaaaaaaaa  aaaakkkkkkkk    kkkkkkk    eeeeeeeeeeeeee  "                                                                                                                                                                   
+echo -e " SSSSSSSSSSSSSSS             ttttttttttt    aaaaaaaaaa  aaaakkkkkkkk    kkkkkkk    eeeeeeeeeeeeee                         TTTTTTTTTTT        aaaaaaaaaa  aaaakkkkkkkk    kkkkkkk    eeeeeeeeeeeeee  "
